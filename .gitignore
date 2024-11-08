@@ -1,0 +1,23 @@
+config.yaml
+
+credentials/
+data/
+
+acc_data/
+
+# models/
+paperwork/
+.pytest_cache/
+.DS_Store
+
+**/__pycache__
+**/.venv
+**/.classpath
+**/.env
+**/.git
+**/.project
+**/.settings
+**/.toolstarget
+**/.vs
+**/.vscode
+
